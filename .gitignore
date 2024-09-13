@@ -1,3 +1,4 @@
 /BlackListed-Certificates.ipynb
 /FortiGate-Transaction.ipynb
 /__pycache__
+.gitignore
